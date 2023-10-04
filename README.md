@@ -2,7 +2,7 @@
 This project aims to perform semantic segmentation of the cervical columnar region using U-Net deep learning architecture.
 
 ## Dataset
-The dataset can be accessed at this link: https://drive.google.com/drive/folders/1Z2bIM-roinJbA_1DYgaKqW0ntm-X0g7i?usp=sharing 
+The dataset can be accessed at this link: https://drive.google.com/drive/folders/1URnEBDBomby7zKJDQrmgT6jyNYyo72Tl?usp=sharing 
 
 - Figure and Ground Truth
 
